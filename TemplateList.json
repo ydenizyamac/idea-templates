@@ -1,5 +1,6 @@
 [{
     "templateName":"Example",
     "templateExtension": "java",
-    "configName": "Example.config.json"
+    "configName": "Example.config.json",
+    "group": "YKB/Java"
 }]
