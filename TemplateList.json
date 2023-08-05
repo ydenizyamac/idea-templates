@@ -2,5 +2,8 @@
     "templateName":"Example",
     "templateExtension": "java",
     "configName": "Example.config.json",
-    "group": "YKB/Java"
+    "icon": "",
+    "group": "YKB/Java",
+    "isSubMenu": true,
+    "isMainMenuActive": true
 }]
