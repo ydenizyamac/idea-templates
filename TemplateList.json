@@ -4,6 +4,6 @@
     "configName": "Example.config.json",
     "icon": "fileIcon.png",
     "group": "YKB/Java",
-    "isSubMenu": true,
-    "isMainMenuActive": true
+    "subMenu": true,
+    "mainMenuActive": true
 }]
