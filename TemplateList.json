@@ -3,7 +3,7 @@
     "templateExtension": "java",
     "configName": "Example.config.json",
     "icon": "fileIcon.png",
-    "group": "YKB/Java",
+    "group": "YKB/New Example File",
     "subMenu": true,
     "mainMenuActive": true
 }]
