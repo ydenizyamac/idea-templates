@@ -16,6 +16,22 @@
             ],            
             "subMenu": true,
             "mainMenuActive": true
+        },
+        {
+            "templateName": "FeignClientTemplate",
+            "templateExtension": "java",
+            "icon": "feignIcon.png",
+            "group": "YKB/Feign/New Example File",
+            "kind": "Class",
+            "addInto": [
+                "EditorPopupMenu",
+                "PopupMenuActions"
+            ],
+            "synonyms": [
+                "fgn"
+            ],            
+            "subMenu": true,
+            "mainMenuActive": true
         }
     ]
 }
