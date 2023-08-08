@@ -9,6 +9,7 @@
             "group": "YKB/New Example File",
             "kind": "Class",
             "addInto": ["CutCopyPasteGroup"],
+            "synonyms": ["nef"],
             "subMenu": true,
             "mainMenuActive": true
         }
