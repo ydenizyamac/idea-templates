@@ -1,0 +1,15 @@
+{
+    "mainMenuText": "Sync Templates",    
+    "actionIdPrefix":"com.synctemplates.actions",
+    "templateList": [
+        {
+            "templateName": "Example",
+            "templateExtension": "java",
+            "configName": "Example.config.json",
+            "icon": "fileIcon.png",
+            "group": "YKB/New Example File",
+            "subMenu": true,
+            "mainMenuActive": true
+        }
+    ]
+}
