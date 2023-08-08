@@ -21,7 +21,7 @@
             "templateName": "FeignClientTemplate",
             "templateExtension": "java",
             "icon": "feignIcon.png",
-            "group": "YKB/Feign/New Example File",
+            "group": "YKB/Feign/New Feign Client",
             "kind": "Class",
             "addInto": [
                 "EditorPopupMenu",
