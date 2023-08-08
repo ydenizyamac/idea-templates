@@ -1,6 +1,6 @@
 {
-    "mainMenuText": "Sync Templates",    
-    "actionIdPrefix":"com.synctemplates.actions",
+    "mainMenuText": "Sync Templates",
+    "actionIdPrefix": "com.synctemplates.actions",
     "templateList": [
         {
             "templateName": "Example",
@@ -8,8 +8,13 @@
             "icon": "fileIcon.png",
             "group": "YKB/New Example File",
             "kind": "Class",
-            "addInto": ["CutCopyPasteGroup"],
-            "synonyms": ["nef"],
+            "addInto": [
+                "CutCopyPasteGroup"
+            ],
+            "synonyms": [
+                "nef"
+            ],
+            "popup": false,
             "subMenu": true,
             "mainMenuActive": true
         }
