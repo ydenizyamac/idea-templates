@@ -1,0 +1,7 @@
+ CutCopyPasteGroup
+ EditorPopupMenu
+ StructureViewPopupMenu
+ PopupMenuActions
+ CodeEditorViewGroup
+ EditorContextBarMenu
+ CodeMenu
