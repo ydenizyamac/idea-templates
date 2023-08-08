@@ -13,8 +13,7 @@
             ],
             "synonyms": [
                 "nef"
-            ],
-            "popup": false,
+            ],            
             "subMenu": true,
             "mainMenuActive": true
         }
