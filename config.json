@@ -1,37 +1,11 @@
 {
-    "mainMenuText": "Sync Templates",
-    "actionIdPrefix": "com.synctemplates.actions",
-    "templateList": [
+    "teamList": [
         {
-            "templateName": "Example",
-            "templateExtension": "java",
-            "icon": "fileIcon.png",
-            "group": "YKB/New Example File",
-            "kind": "Class",
-            "addInto": [
-                "CutCopyPasteGroup"
-            ],
+            "name": "Bireysel Krediler Tahsilat ve Tasfiye",
+            "configPath": "tahsilat_tasfiye",
             "synonyms": [
-                "nef"
-            ],            
-            "subMenu": true,
-            "mainMenuActive": true
-        },
-        {
-            "templateName": "FeignClientTemplate",
-            "templateExtension": "java",
-            "icon": "feignIcon.png",
-            "group": "Feign/New Feign Client",
-            "kind": "Class",
-            "addInto": [
-                "EditorPopupMenu",
-                "PopupMenuActions"
-            ],
-            "synonyms": [
-                "fgn"
-            ],            
-            "subMenu": true,
-            "mainMenuActive": true
+                "tvt"
+            ]
         }
     ]
 }
