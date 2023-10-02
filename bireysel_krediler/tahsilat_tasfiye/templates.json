@@ -1,13 +1,5 @@
 [
     {
-        "templateName": "Example",
-        "templateExtension": "java",
-        "group": "YKB/New Example File",
-        "synonyms": [
-            "nef"
-        ]
-    },
-    {
         "templateName": "FeignClientTemplate",
         "templateExtension": "java",
         "group": "External/Feign/New Feign Client",

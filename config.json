@@ -1,11 +1,22 @@
-{
-    "teamList": [
-        {
-            "name": "Bireysel Krediler Tahsilat ve Tasfiye",
-            "configPath": "tahsilat_tasfiye",
-            "synonyms": [
-                "tvt"
-            ]
-        }
-    ]
-}
+[
+    {
+        "name": "Bireysel Krediler",
+        "path": "bireysel_krediler",
+        "managements": [
+            {
+                "name": "Kredi Risk İzleme",
+                "path": "risk_izleme",
+                "synonyms": [
+                    "kri"
+                ]
+            },
+            {
+                "name": "Kredi Tahsilat ve Tasfiye",
+                "path": "tahsilat_tasfiye",
+                "synonyms": [
+                    "ktt"
+                ]
+            }
+        ]
+    }
+]
