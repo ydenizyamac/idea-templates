@@ -18,5 +18,25 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Test",
+        "path": "test",
+        "managements": [
+            {
+                "name": "Alt Grup",
+                "path": "alt_grup_birinci",
+                "synonyms": [
+                    "alt1"
+                ]
+            },
+            {
+                "name": "Alt Grup 2",
+                "path": "alt_grup_ikinci",
+                "synonyms": [
+                    "alt2"
+                ]
+            }
+        ]
     }
 ]

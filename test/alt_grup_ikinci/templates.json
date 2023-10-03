@@ -1,0 +1,10 @@
+[
+    {
+        "templateName": "FeignClientTemplate",
+        "templateExtension": "java",
+        "group": "External/Feign/New Feign Client",
+        "synonyms": [
+            "fgn"
+        ]
+    }
+]
