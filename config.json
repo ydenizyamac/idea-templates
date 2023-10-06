@@ -38,5 +38,18 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Blabla",
+        "path": "blabla",
+        "managements": [
+            {
+                "name": "Ooooy!",
+                "path": "katman",
+                "synonyms": [
+                    "ktmn"
+                ]
+            }
+        ]
     }
 ]
