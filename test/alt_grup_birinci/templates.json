@@ -14,5 +14,21 @@
         "synonyms": [
             "nef"
         ]
+    },
+    {
+        "templateName": "Example",
+        "templateExtension": "java",
+        "group": "YKB/B/New Example Copy File",
+        "synonyms": [
+            "nef"
+        ]
+    },
+    {
+        "templateName": "Example_copy",
+        "templateExtension": "java",
+        "group": "YKB/A/New Example Copy File",
+        "synonyms": [
+            "nef"
+        ]
     }
 ]
