@@ -2,7 +2,15 @@
     {
         "templateName": "Example",
         "templateExtension": "java",
-        "group": "YKB/New Example File",
+        "group": "YKB/A/New Example File",
+        "synonyms": [
+            "nef"
+        ]
+    },
+    {
+        "templateName": "Example_copy",
+        "templateExtension": "java",
+        "group": "YKB/B/New Example Copy File",
         "synonyms": [
             "nef"
         ]
