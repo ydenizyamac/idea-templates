@@ -1,25 +1,5 @@
 [
     {
-        "name": "Bireysel Krediler",
-        "path": "bireysel_krediler",
-        "managements": [
-            {
-                "name": "Kredi Risk İzleme",
-                "path": "risk_izleme",
-                "synonyms": [
-                    "kri"
-                ]
-            },
-            {
-                "name": "Kredi Tahsilat ve Tasfiye",
-                "path": "tahsilat_tasfiye",
-                "synonyms": [
-                    "ktt"
-                ]
-            }
-        ]
-    },
-    {
         "name": "Test",
         "path": "test",
         "managements": [
@@ -35,19 +15,6 @@
                 "path": "alt_grup_ikinci",
                 "synonyms": [
                     "alt iki"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Blabla",
-        "path": "blabla",
-        "managements": [
-            {
-                "name": "Ooooy!",
-                "path": "katman",
-                "synonyms": [
-                    "ktmn"
                 ]
             }
         ]

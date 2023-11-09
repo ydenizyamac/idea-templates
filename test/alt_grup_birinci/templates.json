@@ -1,32 +1,28 @@
 [
     {
-        "templateName": "Example",
-        "templateExtension": "java",
-        "group": "YKB/A/New Example File",
+        "files": [
+            "Example.java",
+            "Example_copy.java"
+        ],
+        "group": "YKB/A/New Example Files",
         "synonyms": [
             "nef"
         ]
     },
     {
-        "templateName": "Example_copy",
-        "templateExtension": "java",
+        "files": [
+            "Example_copy.java"
+        ],
         "group": "YKB/B/New Example Copy File",
         "synonyms": [
             "nef"
         ]
     },
     {
-        "templateName": "Example",
-        "templateExtension": "java",
+        "files": [
+            "Example.java"
+        ],
         "group": "YKB/B/New Example File",
-        "synonyms": [
-            "nef"
-        ]
-    },
-    {
-        "templateName": "Example_copy",
-        "templateExtension": "java",
-        "group": "YKB/A/New Example Copy File",
         "synonyms": [
             "nef"
         ]
