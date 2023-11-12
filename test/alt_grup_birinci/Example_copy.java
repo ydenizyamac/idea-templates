@@ -1,7 +1,7 @@
 
 #if (${PACKAGE_NAME} && ${PACKAGE_NAME} != "")package ${PACKAGE_NAME};#end
 #parse("File Header.java")
-public class Example${NAME} {
+public class ${NAME} {
     #if (${ENUM})
     enum MyEnum {
         VALUE1,
