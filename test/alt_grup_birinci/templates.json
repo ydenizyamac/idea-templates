@@ -2,6 +2,9 @@
     {
         "files": [
             "Example.java",
+            "Example2.java",
+            "Example3.java",
+            "Example4.java",
             "Example_copy.java"
         ],
         "group": "YKB/A/New Example Files",
