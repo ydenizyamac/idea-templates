@@ -1,0 +1,11 @@
+[
+    {
+        "files": [
+            "FeignClientTemplate.java"
+        ],
+        "group": "External/Feign/New Feign Client",
+        "synonyms": [
+            "fgn"
+        ]
+    }
+]
